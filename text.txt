@@ -1,0 +1,8 @@
+1. acordar 
+2. levantar da cama
+3. arrumar a cama
+4. se tiver mensagens no whasapp
+      - responder mensagens
+    senao nao responder mensagens
+5. escovar os dentes
+6. tomar café
